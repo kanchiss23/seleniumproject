@@ -1,3 +1,7 @@
 This is part of GIT training
 
 I have created demo project
+
+Modified file after commit
+
+this line added after staging
